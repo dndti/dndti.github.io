@@ -3,10 +3,10 @@
   
   
     {
-      "title"    : "¡Bienvenido a Industria Maker 4.0 : Hub de proyectos!",
+      "title"    : "¡Bienvenido a Colectivo Lab: Espacio Maker 4.0!",
       "tags"     : "",
       "categories" : "",
-      "url"      : "/bienvenida/2021/08/06/welcome-to-jekyll.html",
+      "url"      : "/welcome-to-jekyll/",
       "date"     : "08/06/2021"
     } ,
   
@@ -14,7 +14,7 @@
       "title"    : "Proyecto-1",
       "tags"     : "IoT, Electrónica, and Industria Espacial",
       "categories" : "Satélites",
-      "url"      : "/sat%C3%A9lites/2021/08/02/welcome-to-the-desert-of-the-real.html",
+      "url"      : "/welcome-to-the-desert-of-the-real/",
       "date"     : "08/02/2021"
     } ,
   
@@ -22,7 +22,7 @@
       "title"    : "Open Sounding Rocket",
       "tags"     : "Aeroespacial, Electrónica, and Clima",
       "categories" : "Aeroespacial",
-      "url"      : "/aeroespacial/2021/08/01/let-flexbox-work-for-you-or-perish.html",
+      "url"      : "/let-flexbox-work-for-you-or-perish/",
       "date"     : "08/01/2021"
     } ,
   
@@ -30,7 +30,7 @@
       "title"    : "Sistema de impresión 3D de tejido vivo",
       "tags"     : "Impresión 3D, Salud, and I+D",
       "categories" : "Bioimpresión",
-      "url"      : "/bioimpresi%C3%B3n/2021/08/01/why-books-should-be-your-priority.html",
+      "url"      : "/why-books-should-be-your-priority/",
       "date"     : "08/01/2021"
     } ,
   
@@ -38,7 +38,7 @@
       "title"    : "Forestal Detector",
       "tags"     : "Software, Satelites, and Gestión",
       "categories" : "Software",
-      "url"      : "/software/2021/07/29/smoke-alert.html",
+      "url"      : "/smoke-alert/",
       "date"     : "07/29/2021"
     } ,
   
@@ -46,7 +46,7 @@
       "title"    : "Educarobot",
       "tags"     : "Educación, Robótica, and Software",
       "categories" : "Educación",
-      "url"      : "/educaci%C3%B3n/2021/07/28/a-star-has-fallen-from-the-sky-and-the-cat-ate-it.html",
+      "url"      : "/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/",
       "date"     : "07/28/2021"
     } ,
   
@@ -54,7 +54,7 @@
       "title"    : "IoT Drone",
       "tags"     : "Drones, IoT, and Agro",
       "categories" : "Drones",
-      "url"      : "/drones/2021/07/21/candy-candies-candy.html",
+      "url"      : "/candy-candies-candy/",
       "date"     : "07/21/2021"
     } ,
   
@@ -62,7 +62,7 @@
       "title"    : "Sistema de trazabilidad basado en Blockchain para cultivos",
       "tags"     : "Blockchain, Software, and Control",
       "categories" : "Algoritmos/Software",
-      "url"      : "/algoritmos/software/2021/07/20/a-wonderful-serenity-has-taken-possession-of-my-entire-soul.html",
+      "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/",
       "date"     : "07/20/2021"
     } ,
   
@@ -70,7 +70,7 @@
       "title"    : "Argenduino Placa de prototipado rápido",
       "tags"     : "Electrónica, Maker, and Educación",
       "categories" : "Electrónica",
-      "url"      : "/electr%C3%B3nica/2021/07/12/trust-me-it-will-work.html",
+      "url"      : "/trust-me-it-will-work/",
       "date"     : "07/12/2021"
     } ,
   
@@ -78,7 +78,7 @@
       "title"    : "Protector facial nacional",
       "tags"     : "Impresion 3D, COVID19, and Salud",
       "categories" : "Impresion 3D",
-      "url"      : "/impresion%203d/2021/07/10/birds-can-fly-but-this-you-knew-already.html",
+      "url"      : "/birds-can-fly-but-this-you-knew-already/",
       "date"     : "07/10/2021"
     } ,
   
@@ -86,7 +86,7 @@
       "title"    : "Sistema de gestión para ingreso a espacios cerrados",
       "tags"     : "Infraestructura, Software, and Espacios cerrados",
       "categories" : "Gestión",
-      "url"      : "/gesti%C3%B3n/2021/07/06/passion-is-dangerous-go-for-it.html",
+      "url"      : "/passion-is-dangerous-go-for-it/",
       "date"     : "07/06/2021"
     } ,
   
@@ -94,7 +94,7 @@
       "title"    : "Satellitwin",
       "tags"     : "Realidad inmersiva, Software, and Satélites",
       "categories" : "Digital twin",
-      "url"      : "/digital%20twin/2021/07/03/how-to-turn-your-dog-into-a-jedi-master.html",
+      "url"      : "/how-to-turn-your-dog-into-a-jedi-master/",
       "date"     : "07/03/2021"
     } ,
   
@@ -102,7 +102,7 @@
       "title"    : "Robot de posicionamiento pick and place open source",
       "tags"     : "CNC, open source, and electrónica",
       "categories" : "Máquinas",
-      "url"      : "/m%C3%A1quinas/2021/07/01/the-quick-brown-fox-jumps-over-a-lazy-dog.html",
+      "url"      : "/the-quick-brown-fox-jumps-over-a-lazy-dog/",
       "date"     : "07/01/2021"
     } ,
   
@@ -110,7 +110,7 @@
       "title"    : "DSP nacional para sistemas de audio comerciales",
       "tags"     : "Electrónica, Audio, and Equipamiento",
       "categories" : "Electrónica",
-      "url"      : "/electr%C3%B3nica/2021/06/08/do-you-believe-that-a-spider-can-dance.html",
+      "url"      : "/do-you-believe-that-a-spider-can-dance/",
       "date"     : "06/08/2021"
     } ,
   
@@ -118,15 +118,15 @@
       "title"    : "Levadura de larga duración",
       "tags"     : "Bioingeniería, Alimentos, and Biología",
       "categories" : "Ingeniería en alimentos",
-      "url"      : "/ingenier%C3%ADa%20en%20alimentos/2021/06/04/a-cook-cries-in-the-rain-at-night.html",
+      "url"      : "/a-cook-cries-in-the-rain-at-night/",
       "date"     : "06/04/2021"
     } ,
   
     {
       "title"    : "SatelitAR",
-      "tags"     : "music, band, and passion",
+      "tags"     : "Satelites, Estacion, and Aeroespacial",
       "categories" : "Aeroespacial",
-      "url"      : "/aeroespacial/2021/05/11/grab-your-band-and-get-out.html",
+      "url"      : "/grab-your-band-and-get-out/",
       "date"     : "05/11/2021"
     } 
   
